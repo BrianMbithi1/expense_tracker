@@ -2,7 +2,7 @@
 
 Anyone who travels, freelances internationally, or shops from foreign stores ends up paying in many currencies and quickly loses track of what they have spent. Expense Tracker lets you log each purchase in the currency you paid in and instantly see everything converted into one home currency, using live exchange rates.
 
-**Live demo:** https://YOUR-USERNAME.github.io/expense-tracker/
+**Live demo:** https://BrianMbithi1.github.io/expense-tracker/
 
 ## Features
 - Add expenses with description, amount, currency and category
@@ -23,7 +23,7 @@ Anyone who travels, freelances internationally, or shops from foreign stores end
 
 ## Run locally
 ```bash
-git clone https://github.com/YOUR-USERNAME/expense-tracker.git
+git clone https://github.com/BrianMbithi1/expense-tracker.git
 cd expense-tracker
 npm install
 npm start        # serves the app (ES modules need a server, not file://)
